@@ -6,10 +6,6 @@ ffmpeg for Erlang
 
 > erlFFMpeg depend on ffmpeg and ffprobe (which is part of ffmpeg). For more informations about `ffmpeg` and how to install it, see [http://www.ffmpeg.org](http://www.ffmpeg.org).
 
-    git clone https://github.com/glejeune/erlffmpeg.git
-    cd erlffmpeg
-    make
-
 ## Usage
 
 ```erlang
